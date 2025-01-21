@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=canberkkmn&label=Profile%20views&color=0e75b6&style=flat" alt="canberkkmn" /> </p>
 
-- 🔭 I’m currently working on [Gravity Design System](https://www.sartorius.com/brand-platform/applications/digital/app)
+- 🔭 I’m currently working on the Gravity Design System for Sartorius.
 
 - 📫 How to reach me **canberkkaman@gmail.com**
 
